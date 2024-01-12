@@ -37,7 +37,7 @@ class DisplayRandomViewController: UIViewController,UITableViewDelegate,UITableV
         return cell
     }
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 170
+        return 150
     }
     
     //API_CALLING________________
